@@ -1,6 +1,7 @@
-pandas version: 2.2.2
-numpy version: 2.0.2
-seaborn version: 0.13.2
-scikit-learn version: 1.6.1
-matplotlib version: 3.10.0
-joblib version: 1.4.2
+pandas == 2.2.2
+numpy == 2.0.2
+seaborn == 0.13.2
+scikit-learn == 1.6.1
+matplotlib == 3.10.0
+joblib == 1.4.2
+Streamlit == 1.38.0
